@@ -1,0 +1,14 @@
+.main-box {
+  padding: 30px;
+  border: 1px dotted #e1e;
+}
+
+.main-app {
+  font-size: 32px;
+}
+
+.sub-app-wrapper {
+  display: flex;
+  padding: 30px;
+  border: 1px solid #a1a1a1;
+}

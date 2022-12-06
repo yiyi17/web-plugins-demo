@@ -1,0 +1,18 @@
+{
+  "name": "anyproxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node -T ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "ericlee33",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4",
+    "@types/anyproxy": "^4.1.2",
+    "anyproxy": "^4.1.3"
+  }
+}
