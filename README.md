@@ -25,3 +25,8 @@ pnpm dev
 
 ````
 
+## 设计思路
+
+<img src="./方案设计.png"/>
+
+<img src="./执行过程.png"/>
