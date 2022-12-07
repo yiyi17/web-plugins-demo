@@ -11,6 +11,7 @@
   "author": "ericlee33",
   "license": "ISC",
   "dependencies": {
+    "@babel/core": "^7.20.5",
     "css-loader": "^6.7.1",
     "dayjs": "^1.11.3",
     "https-browserify": "^1.0.0",

@@ -1,6 +1,7 @@
 import ReactDOM, { createPortal } from 'react-dom';
 import React, { useEffect, useRef, useState } from 'react';
-import { memorizedFetchBundle } from 'lite-module-federation';
+// import { memorizedFetchBundle } from 'lite-module-federation';
+import { memorizedFetchBundle } from '../../lite-module-federation/src';
 
 
 import './app.css';
